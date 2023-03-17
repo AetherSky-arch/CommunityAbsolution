@@ -1,1 +1,1 @@
-# CommunityAbsolution
+# Absolution - Community Mod
